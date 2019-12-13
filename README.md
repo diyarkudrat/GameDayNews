@@ -4,4 +4,8 @@ A platform where users can create their own sports articles about any appropriat
 include your own opinion. That is the special thing about this platform. A place where you can write about your own opinion
 about any sports topic.
 
-<a href='https://github.com/diyarkudrat/GameDayNews/blob/master/proposal.md>proposal.md</a>
+https://github.com/diyarkudrat/GameDayNews/blob/master/proposal.md
+
+#Deployment URL
+
+https://game-day-news-dk.herokuapp.com/
